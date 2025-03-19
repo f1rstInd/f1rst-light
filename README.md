@@ -41,7 +41,7 @@ F1rst Light Theme dirilis di bawah lisensi **MIT** – bebas digunakan dan dimod
 Untuk pertanyaan atau masukan, hubungi kami di:
 - [Website F1rstID](https://f1rst.id)
 - Email: support@f1rst.id
-- GitHub: [@f1rstid](https://github.com/f1rstInd)
+- GitHub: [@f1rstInd](https://github.com/f1rstInd)
 
 ---
 
