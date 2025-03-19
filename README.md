@@ -15,14 +15,14 @@
 Kloning repository ini dengan perintah berikut:
 
 ```sh
-git clone https://github.com/f1rstid/f1rst-light-theme.git
+git clone https://github.com/f1rstid/f1rst-light.git
 ```
 
 ## Cara Penggunaan
 
 1. Masuk ke direktori tema:
    ```sh
-   cd f1rst-light-theme
+   cd f1rst-light
    ```
 2. Tambahkan ke proyek Anda dan sesuaikan sesuai kebutuhan.
 3. Nikmati tampilan modern dengan performa maksimal!
